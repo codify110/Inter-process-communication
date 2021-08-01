@@ -3,14 +3,20 @@ Interprocess communication is the mechanism provided by the operating system tha
 
 ## Task 
 Write a program for inter-process communication among child and parent process with
-following needs;
+following needs: 
 a. A parent and two childs
+
 b. Parent take data from the user
+
 c. Send to a child for addition and subtraction.
+
 d. Again take input from user and send to another child for multiplication and
 division.
+
 e. First child process creates another child C3.
+
 e. Both the childs send result to the child process C3 to show output.
+
 f. Parent process after completion of each child process task kill the process.
 
 ## Output
